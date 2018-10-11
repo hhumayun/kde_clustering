@@ -2,6 +2,6 @@
 
 This is Matlab code implementing a 2D Kernel Density Estimator using convolutions. This was used to identify clusters of crime for a project.
 
-To run the code clone the repository and run the run_parzen_3.m to run the clustering algorithm.
+To run the algorithm clone the repository and run "run_parzen_3.m". Play around with bandwidth and threshold parameters to see how the output changes. 
 
-The code also outputs a KML file that can be used to visualize the clusters on Google Maps. 
+A KML file is also written to disk that can be used to visualize the clusters on Google Maps. 
